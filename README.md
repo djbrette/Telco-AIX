@@ -6,7 +6,7 @@
 
 Welcome to the **Telco-AIX** collaborative experimental workspace –> where we explore data-driven decision-making through open-source AI capabilities and open datasets.
 
-## Projects 
+## Experiments 
 
 | Domain | Project | Focus Area |
 |--------|---------|------------|
@@ -17,13 +17,14 @@ Welcome to the **Telco-AIX** collaborative experimental workspace –> where we 
 | 🔒 Security | [SecOps-AI](https://github.com/tme-osx/Telco-AIX/tree/main/secops) | Networking Security |
 | ⚡ Smart Infrastructure | [AI Powered SmartGrid](https://github.com/tme-osx/Telco-AIX/tree/main/smartgrid) | Grid Optimization |
 | 🛡️ IoT Security | [IoT Perimeter Security](https://github.com/tme-osx/Telco-AIX/tree/main/iot-sec) | Perimeter Security|
-| 🤖 Advanced AI | [5G CNF RCA with LLM](https://github.com/ansonmez/5g_llm_ilab_demo) | Root Cause Analysis |
-| 💬 Customer Experience | [CRM Voice App](https://github.com/tme-osx/Telco-AIX/tree/main/crm) | Intelligent Customer Interactions |
+| 🚀 Advanced AI | [5G CNF RCA with LLM](https://github.com/ansonmez/5g_llm_ilab_demo) | Root Cause Analysis |
+| 💬 Customer Experience | [CRM Voice App](https://github.com/tme-osx/Telco-AIX/tree/main/crm) <br> [Intent Classification](https://github.com/open-experiments/Telco-AIX/tree/main/intclass)| Intelligent Customer Interactions |
 | 🔍 Anomaly Detection | [RootCause Analysis](https://github.com/tme-osx/Telco-AIX/tree/main/llm-rca) | Model Chaining & RAG |
 | 🛰️ Connectivity | [Starlink QoE](https://github.com/tme-osx/Telco-AIX/tree/main/starlink) | Satellite ISP Experience |
 | 🖥️ Network Operations | [NoC AI Augmentation](https://github.com/tme-osx/Telco-AIX/tree/main/5gprod) | OSS Optimization |
 | 🎩 IT Management | [ITSM Automation](https://github.com/tme-osx/Telco-AIX/tree/main/itsm-ai-automation) | Intelligent Service Management |
-| 🤖 Agentic Telco-AI | [Agentic AI](https://github.com/tme-osx/Telco-AIX/tree/main/agentic) | Agentic Telco OSS Framework |
+| 🤖 Agentic Telco-AI | [Agentic Framework](https://github.com/tme-osx/Telco-AIX/tree/main/agentic) <br> [Autonomous 5G Network](https://github.com/open-experiments/Telco-AIX/tree/main/autonet)| Agentic Telco |
+| 🥇 Telco Expert Portal | [One Stop KnowHow Shop](https://github.com/open-experiments/Telco-AIX/tree/main/telco-sme) | Prompt Engineering & Embeddings Search |
 
 ## 🥚 Easter Egg
 
@@ -33,22 +34,12 @@ Welcome to the **Telco-AIX** collaborative experimental workspace –> where we 
 Explore our curated models and datasets:
 [Telco-AIX on HuggingFace](https://huggingface.co/collections/fenar/telco-aix-66737384ab5687fe3d9a4b94)
 
-## Team
-
-| **Role** | **Name** | **LinkedIn** | **Region** |
-|----------|----------|--------------|------------|
-| **Maintainer** | Alessandro Arrichiello | [Profile](https://www.linkedin.com/in/alessandroarrichiello/) | EMEA |
-| **Maintainer** | Ali Bokhari | [Profile](https://www.linkedin.com/in/ali-bokhari/) | North America |
-| **Maintainer** | Atul Deshpande | [Profile](https://www.linkedin.com/in/atulrdeshpande/) | APAC |
-| **Program Manager** | Arun Thomas | [Profile](https://www.linkedin.com/in/arun-thomas-17a49359/) | Texas |
-| **Business Development** | Paul Lancaster | [Profile](https://www.linkedin.com/in/paullancaster/) | North America |
-| **Business Development** | Sankar Panneerselvam | [Profile](https://www.linkedin.com/in/sankarpanneerselvam-mba/) | Texas |
-| **Founder** | Fatih E. NAR | [Profile](https://www.linkedin.com/in/fenar/) | Texas |
-
 ## Published Works
 
 | Title | Platform | Link | Key Authors |
 |-------|----------|------|-------------|
+| The AI Engine | Medium | [Read Article](https://medium.com/open-5g-hypercore/episode-xxviii-the-ai-engine-is-ready-but-wheres-the-rest-05b7d3d25fd0) |Tushar Katarki, Fatih E. Nar, William Caban |
+| Lessons Learned from a Telco MCP BackEnd Experiments | Medium | [Read Article](https://medium.com/open-5g-hypercore/episode-xxvii-lessons-learned-from-a-telco-mcp-backend-experiments-bf14d90b1e6a) |Ian Hood, Robert Shaw, Fatih E. Nar |
 | Satisfaction is All You Need! | Medium | [Read Article](https://medium.com/open-5g-hypercore/episode-xxv-satisfaction-is-all-you-need-9ff145d68385) | Fatih E. Nar, Ian Hood, Ranny Haiby et al. |
 | Artificially Intelligent Platform Interface (AI-PI) | Medium | [Read Article](https://medium.com/open-5g-hypercore/episode-xxiv-artificially-intelligent-platform-interface-667f44dcecf1) | Fatih E. Nar, Ian Hood, Shujaur Mufti et al. |
 | TrueAI4Telco | Medium | [Read Article](https://medium.com/open-5g-hypercore/episode-xxiii-trueai4telco-3e372898ce06) | Azhar Sayeed, Fatih E. NAR et al. |
@@ -64,4 +55,4 @@ Explore our curated models and datasets:
 
 **🌟 Join Our AI Revolution in Telecommunications!** 
 
-Interested in cutting-edge AI applications for telecom? Reach out, collaborate, and help shape the future of intelligent networking.
+Interested in cutting-edge AI applications for telecom? [Reach out, collaborate](https://www.linkedin.com/in/fenar/), and help shape the future of intelligent networking.
